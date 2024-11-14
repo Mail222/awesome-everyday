@@ -41,7 +41,6 @@ Last but not least...
 - [privacy.sexy ⭐️](https://privacy.sexy/) [💽](https://github.com/undergroundwires/privacy.sexy)
 - [Privacy Guides 🤩](https://www.privacyguides.org/en/) [💽](https://github.com/privacyguides/privacyguides.org) 📝
 - [anonymousemail](https://anonymousemail.me/)
-- [SMSReceiveFree](https://smsreceivefree.com/) 💸
 - [PrivateBin](https://privatebin.info/) [💽](https://github.com/PrivateBin/PrivateBin)
 - [CheckTor](https://check.torproject.org/) [💽](https://git.torproject.org/check.git)
 - [SophiApp 🤩](https://github.com/Sophia-Community/SophiApp) [💽](https://github.com/Sophia-Community/SophiApp)
@@ -81,7 +80,6 @@ wordlists site found from andre
 - [bellingcat](https://www.bellingcat.com/) 📝
 - base64 section:
   - `c29tZSBhd2Vzb21lIE9TSU5UIHN0dWZmIQo=`
-  - `aHR0cHM6Ly9zZWFyY2guMHQucm9ja3MvCg==`
   - `aHR0cHM6Ly9haXJjcmFjay1uZy5vcmcvCg==` > sort of OSINT... sort of enumeration..
 # *nix Stuff
 - [NixOS](https://nixos.org/) [💽](https://github.com/NixOS)
